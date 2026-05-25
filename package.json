@@ -1,0 +1,12 @@
+{
+  "name": "upload120",
+  "version": "1.0.0",
+  "description": "Upload120 - 120fps TikTok upload patcher",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
